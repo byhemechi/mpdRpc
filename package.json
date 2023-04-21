@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "discord-rpc": "^3.1.2"
+    "discord-rpc": "^3.2.0"
   }
 }
